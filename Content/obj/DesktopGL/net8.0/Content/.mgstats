@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"F:/C# coding2/monotest/Content/font.spritefont","F:/C# coding2/monotest/Content/bin/DesktopGL/Content/font.xnb","FontDescriptionProcessor","SpriteFontContent",2085,21538,0.1740933
+"F:/C# coding2/monotest/Content/spritesheet.png","F:/C# coding2/monotest/Content/bin/DesktopGL/Content/spritesheet.xnb","TextureProcessor","Texture2DContent",312,16985,0.0794528
