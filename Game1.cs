@@ -68,9 +68,9 @@ public class Game1 : Game
 		spriteBatch.Begin();//print spritesheet for debug
 		spriteBatch.Draw(spritesheet, pos, Colour.White);
 		spriteBatch.End();
-  		int[,] origin = {0, 0}
-    		int[,] size = {10, 10}
-		Box.BoxMaker(origin, size, graphics)
+  		int[,] origin = {0, 0};
+    		int[,] size = {10, 10};
+		Box.BoxMaker(origin, size, graphics);
 		
 		
 		
