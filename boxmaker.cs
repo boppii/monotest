@@ -27,18 +27,7 @@ public class Box ()
 
 		
 		
-		int w = GraphicsDevice.Viewport.Width;
-		int h = GraphicsDevice.Viewport.Height;
-
-		string output = $"{w},{h}"; //apparently i dont need to convert int to string to display ints,, huh
-
-		Vector2 FontOrigin = font1.MeasureString(output) / 2;
-		spriteBatch.DrawString(font1, output, fontpos, Colour.White, 0 , FontOrigin, 1, SpriteEffects.None, 0);
-		spriteBatch.End();
-
-		spriteBatch.Begin();//print spritesheet for debug
-		spriteBatch.Draw(spritesheet, pos, Colour.White);
-		spriteBatch.End();
+		
 
 		
 		spriteBatch.Begin(samplerState: SamplerState.PointClamp);//oh god time to draw a box
