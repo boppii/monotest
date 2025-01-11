@@ -10,6 +10,7 @@ namespace monotest;
 public class Game1 : Game
 {
 	private GraphicsDeviceManager graphics;
+
 	private SpriteBatch spriteBatch;
 	SpriteFont font1;
 	Texture2D spritesheet;
@@ -22,7 +23,6 @@ public class Game1 : Game
 		graphics = new GraphicsDeviceManager(this);
 		Content.RootDirectory = "Content";
 		IsMouseVisible = false;
-		
 	}
 
 	protected override void Initialize()
@@ -115,4 +115,7 @@ public class Game1 : Game
 
 
     }
+
+	
+
 }

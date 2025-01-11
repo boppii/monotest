@@ -25,3 +25,4 @@ f:\C# coding2\monotest\obj\Debug\net8.0\monotest.genruntimeconfig.cache
 f:\C# coding2\monotest\obj\Debug\net8.0\ref\monotest.dll
 F:\C# coding2\monotest\bin\Debug\net8.0\Content\font.xnb
 F:\C# coding2\monotest\bin\Debug\net8.0\Content\spritesheet.xnb
+F:\C# coding2\monotest\obj\Debug\net8.0\monotest.sourcelink.json
