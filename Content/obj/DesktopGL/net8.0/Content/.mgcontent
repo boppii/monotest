@@ -4,8 +4,8 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>F:/C# coding2/monotest/Content/font.spritefont</File>
-    <File>F:/C# coding2/monotest/Content/spritesheet.png</File>
+    <File>f:/C# coding2/monotest/Content/font.spritefont</File>
+    <File>f:/C# coding2/monotest/Content/spritesheet.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

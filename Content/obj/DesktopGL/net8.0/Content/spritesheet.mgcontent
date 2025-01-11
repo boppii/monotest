@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>F:/C# coding2/monotest/Content/spritesheet.png</SourceFile>
+  <SourceFile>f:/C# coding2/monotest/Content/spritesheet.png</SourceFile>
   <SourceTime>2025-01-10T04:07:22.7584069+10:00</SourceTime>
-  <DestFile>F:/C# coding2/monotest/Content/bin/DesktopGL/Content/spritesheet.xnb</DestFile>
-  <DestTime>2025-01-10T04:07:37.0195003+10:00</DestTime>
+  <DestFile>f:/C# coding2/monotest/Content/bin/DesktopGL/Content/spritesheet.xnb</DestFile>
+  <DestTime>2025-01-11T20:20:13.1942164+10:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2024-08-17T03:05:56+10:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
