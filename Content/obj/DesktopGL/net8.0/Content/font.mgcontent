@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>f:/C# coding2/monotest/Content/font.spritefont</SourceFile>
+  <SourceFile>F:/C# coding2/monotest/Content/font.spritefont</SourceFile>
   <SourceTime>2025-01-09T23:48:58.3297507+10:00</SourceTime>
-  <DestFile>f:/C# coding2/monotest/Content/bin/DesktopGL/Content/font.xnb</DestFile>
-  <DestTime>2025-01-11T20:20:13.0835282+10:00</DestTime>
+  <DestFile>F:/C# coding2/monotest/Content/bin/DesktopGL/Content/font.xnb</DestFile>
+  <DestTime>2025-01-12T14:27:12.9983502+10:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
   <ImporterTime>2024-08-17T03:05:56+10:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>

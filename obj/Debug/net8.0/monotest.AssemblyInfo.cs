@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("monotest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8422c8193981b23382b61d54e53d6811359b3504")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49ad0475266df1b93f6ff77a9f8ac6b04f15edde")]
 [assembly: System.Reflection.AssemblyProductAttribute("monotest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("monotest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

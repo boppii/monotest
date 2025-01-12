@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\C# coding2\\monotest\\monotest.csproj": {}
+    "F:\\C# coding2\\monotest\\monotest.csproj": {}
   },
   "projects": {
-    "f:\\C# coding2\\monotest\\monotest.csproj": {
+    "F:\\C# coding2\\monotest\\monotest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\C# coding2\\monotest\\monotest.csproj",
+        "projectUniqueName": "F:\\C# coding2\\monotest\\monotest.csproj",
         "projectName": "monotest",
-        "projectPath": "f:\\C# coding2\\monotest\\monotest.csproj",
+        "projectPath": "F:\\C# coding2\\monotest\\monotest.csproj",
         "packagesPath": "C:\\Users\\bopbd\\.nuget\\packages\\",
-        "outputPath": "f:\\C# coding2\\monotest\\obj\\",
+        "outputPath": "F:\\C# coding2\\monotest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
